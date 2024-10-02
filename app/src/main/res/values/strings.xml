@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">KGithubManager</string>
+    <string name="label_github_users">Github Users</string>
+    <string name="label_user_details">User Details</string>
+    <string name="label_followers">Followers</string>
+    <string name="label_following">Following</string>
+    <string name="label_blog">Blog</string>
+</resources>
